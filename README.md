@@ -1,4 +1,4 @@
 # test
 lecture 13
 
-My fav candy is Gushers
+the quick brown fox jumps over the lazy dog
