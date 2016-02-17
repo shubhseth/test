@@ -1,4 +1,4 @@
 # test
 lecture 13
 
-the quick brown fox jumps over the lazy dog
+My favorite candy when I'm super hungry is white chocolate toblerone.
