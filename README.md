@@ -1,3 +1,3 @@
 # test
 
-My fav candy is Reese's
+My second fav candy is Kitkat.
