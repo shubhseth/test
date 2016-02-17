@@ -1,4 +1,3 @@
 # test
-lecture 13
 
-My fav candy is Chocolate
+My fav candy is Reese's
